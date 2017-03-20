@@ -22,12 +22,14 @@ and provides the estimated energy rates for a particular area based on the detai
 -Build and Run the tests
 
 Note:Make sure the browser cache is cleared in Firefox before you run the test.
-
+     All the tests have been run and passed in Firefox Version-47 and Selenium 3.3.0.0
+     More asserts need to be added to improve the test to meet customer requirements, given more time I would be able to do the same.
 
 ##Tools##
 
 OS used : Windows
-Automation Tool : Selenium Webdriver
+Automation Tool : Selenium Webdriver v3.3
 Language : C#
 IDE : Visual Studio Community 2017
 BDD Tool :Teststack.BDDfy
+Browser : Firefox v47
